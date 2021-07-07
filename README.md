@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AaronT
 - 👀 I’m interested in Web Frameworks
 - 🌱 I’m currently learning Web Designing 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Technologies
 - 📫 How to reach me is via <a href="https://www.linkedin.com/in/aaron-tanna-62b813133/"> LinkedIn <a>
 
 <!---
